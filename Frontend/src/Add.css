@@ -1,0 +1,14 @@
+.bg-img{
+    position: relative;
+    background-color: aliceblue; 
+}
+
+.format{
+    display:block;
+}
+
+.btn{
+    align-self: auto;
+}
+
+
